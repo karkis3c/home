@@ -1,0 +1,62 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+h1, h2 {
+    margin: 0;
+}
+
+main {
+    text-align: center;
+    padding: 20px;
+}
+
+.cta-button {
+    display: inline-block;
+    background-color: #2ecc71;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+    background-color: #27ae60;
+}
+
+footer {
+    background-color: #ecf0f1;
+    text-align: center;
+    padding: 20px;
+}
+
+.social-links {
+    margin-top: 10px;
+}
+
+.social-icon {
+    margin: 0 10px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.social-icon img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    transition: transform 0.3s ease;
+}
+
+.social-icon:hover img {
+    transform: scale(1.2);
+}
