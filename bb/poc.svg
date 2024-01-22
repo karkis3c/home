@@ -6,7 +6,7 @@
   <title>SVG with HTML</title>
 </head>
 <body>
-  <img src="/cdn-cgi/image/s/a.svg" alt="SVG Image">
+  <img src="https://brutelogic.com.br/poc.svg" alt="SVG Image">
   <div>
     <h1>Hello, SVG with HTML!</h1>
     <p>This is an example of using HTML with an SVG image.</p>
